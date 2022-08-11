@@ -3,3 +3,6 @@ Git is a open source version control system. The management of change of documen
 
 # Terms To Know
 1. Directory --- Folder
+
+# Command
+1. git status
