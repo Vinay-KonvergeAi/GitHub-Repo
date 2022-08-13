@@ -6,3 +6,7 @@ Git is a open source version control system. The management of change of documen
 
 # Command
 1. git status
+
+# Branching 
+1. git branch      ( To check number of branch )
+2. git checkout 
